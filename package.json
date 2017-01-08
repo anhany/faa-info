@@ -1,7 +1,7 @@
 {
   "name": "faa-info",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Alexa skill for checking the weather conditions at an airport via FAA code.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
